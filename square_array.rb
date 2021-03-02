@@ -4,4 +4,4 @@ square_array.push(numbers ** 2)
 end
 return square_array
 end
-end
+
